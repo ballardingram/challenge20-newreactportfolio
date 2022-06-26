@@ -49,3 +49,76 @@ export const projects = [
         link: "https://fast-fortress-82643.herokuapp.com/",
     },
 ]
+
+// SKILLS ARRAY > REQUIRED TO DEMONSTRATE SKILLS
+export const skills = [
+    {
+        name: "HTML"
+    },
+    {
+        name: "CSS"
+    },
+    {
+        name: "Git"
+    },
+    {
+        name: "Bootstrap"
+    },
+    {
+        name: "Bulma"
+    },
+    {
+        name: "Tailwind"
+    },
+    {
+        name: "Javascript"
+    },
+    {
+        name: "API"
+    },
+    {
+        name: "Node"
+    },
+    {
+        name: "SQL"
+    },
+    {
+        name: "NoSQL"
+    },
+    {
+        name: "MongoDB"
+    },
+    {
+        name: "PWA"
+    },
+    {
+        name: "REACT"
+    }
+]
+
+export const jobs = [
+    {
+        title: "Process Workflow Manager",
+        details: "Job description here.",
+        dates: "02/2019 - 02/2022",
+        company: "bolt Access"
+    },
+    {
+        title: "Retention Supervisor",
+        details: "Job description here.",
+        dates: "08/2018 - 02/2019",
+        company: "Charter Communications"
+    },
+    {
+        title: "Customer Service Center Manager",
+        details: "Job description here.",
+        dates: "12/2016 - 07/2018",
+        company: ""
+    },
+    {
+        title: "Operations Manager",
+        details: "Job description here.",
+        dates: "05/2015 - 10/2016",
+        company: "Concentrix"
+    },
+]
