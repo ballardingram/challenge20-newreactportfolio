@@ -2,3 +2,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#namefont {
+    font-family: 'Roboto', sans-serif;
+}
+
+#navfont {
+    font-family: 'Roboto', sans-serif;
+}
+
+#sectionfont {
+    font-family: 'Roboto', sans-serif;
+}
+
+#sectionblurb {
+    font-family: 'Caveat', cursive;
+}

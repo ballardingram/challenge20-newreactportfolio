@@ -11,10 +11,10 @@ export default function App() {
         <main className="text-grey-400-bg-gray-900 body-font">
             <Navbar/>
             <Projects />
-            <About />
             <Resume />
             <Skills />
             <Contact />
+            <About />
         </main>
     );
 }

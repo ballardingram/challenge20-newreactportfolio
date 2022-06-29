@@ -1,29 +1,30 @@
 // REQUIRED > FUNCTIONALITY
-import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
 
 export default function Navbar() {
     return (
-        <header className = "bg-gray-800 md:sticky top-0 z-10">
-            <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-                    <a href="#about" className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+        <header className = "bg-slate-100 md:sticky top-0 z-10 drop-shadow-xl h-50 border-spacing-4 border-2 border-b-amber-600 m-5 border-x-slate-100 border-t-slate-100">
+            <div className="container mx-auto flex flex-wrap flex-col md:flex-row items-center">
+                    <a href="#about" class="flex object-left">
+                        <img src="profilepicture.png" alt="Ballard Ingram" class="overflow-hidden h-48 w-96"/>
+                    </a>
+                    <a href="#about" className="md:mr-auto text-7xl text-stone-600 hover:text-amber-600 text-center" id="namefont">
                        Ballard M. Ingram 
                     </a>
                 <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-1 md:border-gray-700 flex flex-wrap items-center text-base justify-center">
-                    <a href="#projects" className=" text-white mr-5 hover:text-blue-400">
+                    <a href="#projects" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
                         Projects
                     </a>
-                    <a href="#skills" className="mr-5 hover:text-white">
+                    <a href="#skills" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
                         Skills
                     </a>
-                    <a href="#jobs" className="mr-5 hover:text-white">
+                    <a href="#jobs" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
                         Professional Career
                     </a>
+                    <a href="#contact" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
+                        Hire Me
+                    </a>
                 </nav>
-                <a href="#contact" className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
-                    Hire Me
-                    <ArrowRightIcon className="w-4 h-4 ml-1"/>
-                </a>
             </div>
         </header>
     );
