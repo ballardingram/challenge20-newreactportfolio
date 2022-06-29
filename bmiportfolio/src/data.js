@@ -53,47 +53,69 @@ export const projects = [
 // SKILLS ARRAY > REQUIRED TO DEMONSTRATE SKILLS
 export const skills = [
     {
-        name: "HTML"
+        name: "HTML",
+        image: "html5.png"
     },
     {
-        name: "CSS"
+        name: "CSS",
+        image: "css3.png"
     },
     {
-        name: "Git"
+        name: "Git",
+        image: "git.png"
     },
     {
-        name: "Bootstrap"
+        name: "Bootstrap",
+        image: "bootstrap.png"
     },
     {
-        name: "Bulma"
+        name: "Bulma",
+        image: "bulma.png"
     },
     {
-        name: "Tailwind"
+        name: "Tailwind",
+        image: "tailwindcss.png"
     },
     {
-        name: "Javascript"
+        name: "Javascript",
+        image: "javascript.png"
     },
     {
-        name: "API"
+        name: "API",
+        image: "api.png"
     },
     {
-        name: "Node"
+        name: "Node",
+        image: "nodedotjs.png"
     },
     {
-        name: "SQL"
+        name: "SQL",
+        image: "mysql.png"
     },
     {
-        name: "NoSQL"
+        name: "Handlebars",
+        image: "handlebarsdotjs.png"
     },
     {
-        name: "MongoDB"
+        name: "MongoDB",
+        image: "mongodb.png"
     },
     {
-        name: "PWA"
+        name: "PWA",
+        image: "pwa.png"
     },
     {
-        name: "REACT"
-    }
+        name: "REACT",
+        image: "react.png"
+    },
+    {
+        name: "GraphQL",
+        image: "graphql.png"
+    },
+    {
+        name: "Apache",
+        image: "apache.png"
+    },
 ]
 
 export const jobs = [
