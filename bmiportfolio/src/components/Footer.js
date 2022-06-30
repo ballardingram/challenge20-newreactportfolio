@@ -10,7 +10,7 @@ export default function Footer() {
                     </h1>
                 </div>
                 <div className="container mx-auto flex flex-wrap flex-col md:flex-row items-center">  
-                    <a href="https://www.linkedin.com/in/ballardingram" className="text-stone-700 hover:text-amber-600 pr-10" id="navfont">
+                    <a href="https://www.linkedin.com/in/ballardingram" className="text-stone-700 hover:text-amber-600 pr-15 m-5" id="navfont">
                         <img alt="linkedIn" src="linkedin.png"></img>
                     </a>
                     <a href="https://github.com/ballardingram" className="text-stone-700 hover:text-amber-600" id="navfont">
