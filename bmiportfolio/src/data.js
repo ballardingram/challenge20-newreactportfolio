@@ -122,25 +122,33 @@ export const jobs = [
     {
         title: "Process Workflow Manager",
         details: "Job description here.",
-        dates: "02/2019 - 02/2022",
-        company: "bolt Access"
+        dates: "06/2020 - 02/2022",
+        company: "bolt Access",
+        image: "job1.jpg",
+        link: "https://access.boltinsurance.com/"
+    },
+    {
+        title: "Service Manager",
+        details: "Job description here.",
+        dates: "02/2019 - 06/2020",
+        company: "bolt Access",
+        image: "job2.jpg",
+        link: "https://access.boltinsurance.com/"
     },
     {
         title: "Retention Supervisor",
         details: "Job description here.",
         dates: "08/2018 - 02/2019",
-        company: "Charter Communications"
+        company: "Charter Communications",
+        image: "job3.jpg",
+        link: "https://www.spectrum.com/"
     },
     {
         title: "Customer Service Center Manager",
         details: "Job description here.",
         dates: "12/2016 - 07/2018",
-        company: "HomeStreet Bank"
-    },
-    {
-        title: "Operations Manager",
-        details: "Job description here.",
-        dates: "05/2015 - 10/2016",
-        company: "Concentrix"
+        company: "HomeStreet Bank",
+        image: "job4.jpg",
+        link: "https://www.homestreet.com/"
     },
 ]
