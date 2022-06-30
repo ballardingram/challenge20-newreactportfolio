@@ -11,7 +11,10 @@ export default function Projects() {
                         Completed Projects
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-2xl" id="sectionblurb">
-                        Over the last six months I've embarked on a new journey to expand my skills and join the coding community. Below are a few projects that I'm proud to have completed and learned from.<strong>Click on the projects to see them in action!</strong>
+                        Over the last six months I've embarked on a new journey to expand my skills and join the coding community. Below are a few projects that I'm proud to have completed and learned from.
+                    </p>
+                    <p className="lg:w-2/3 mx-auto leading-relaxed text-2xl" id="sectionblurb">
+                        <strong>Click on the projects to see them in action!</strong>
                     </p>
                 </div>
                 <div className="flex flex-wrap m-4">

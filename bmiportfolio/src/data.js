@@ -135,7 +135,7 @@ export const jobs = [
         title: "Customer Service Center Manager",
         details: "Job description here.",
         dates: "12/2016 - 07/2018",
-        company: ""
+        company: "HomeStreet Bank"
     },
     {
         title: "Operations Manager",
