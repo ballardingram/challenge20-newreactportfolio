@@ -22,7 +22,7 @@ export default function Contact() {
                     <h2 className="sm:text-4xl text-3xl mb-1 font-medium title-font text-zinc-900 tracking-widest" id="sectionfont">
                         Contact Me!
                     </h2>
-                    <p className="leading-relaxed mb-5 text-2xl" id="sectionblurb">
+                    <p className="leading-relaxed mb-5 text-xl" id="navfont">
                         I am always looking to collaborate and provide feedback on any professional concepts and projects. Let's improve our world together.
                     </p>
                     <div className="realtive mb-4">

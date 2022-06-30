@@ -10,14 +10,14 @@ export default function Resume() {
                 <h1 className="sm:text-4xl text-3xl font-medium title-font text-zinc-900 tracking-widest mb-4" id="sectionfont">
                     Professional Experience
                     </h1>
-                    <p className="lg:w-2/3 mx-auto leading-relaxed text-2xl" id="sectionblurb">
+                    <p className="lg:w-2/3 mx-auto leading-relaxed text-xl" id="navfont">
                        My new coding skills are backed by years of Leadership and Operational Management. I enjoy working with diverse, collaborative, and engaging teams of all sizes.
                     </p>
                     <a
                     href="https://github.com/ballardingram/challenge20-newreactportfolio/raw/main/bmiportfolio/public/Resume.pdf"
                     download
-                    className="lg:w-2/3 mx-auto leading-relaxed text-2xl" id="sectionblurb">
-                       <strong>Download my Resume!</strong>
+                    className="lg:w-2/3 mx-auto leading-relaxed text-xl" id="navfont">
+                       <strong>Click here to download my resume!</strong>
                     </a>
                     <div className="flex flex-wrap m-4">
                     {jobs.map((job) => (

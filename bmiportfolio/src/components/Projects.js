@@ -6,14 +6,14 @@ export default function Projects() {
     return (
         <section id="projects" className="text-zinc-900 bg-white-100 body-font">
             <div className="container px-5 py-10 mx-auto text-center lg:px-40">
-                <div className="flext flex-col w-full mb-20">
+                <div className="flex flex-col w-full mb-20">
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-zinc-900 tracking-widest" id="sectionfont">
                         Completed Projects
                     </h1>
-                    <p className="lg:w-2/3 mx-auto leading-relaxed text-2xl" id="sectionblurb">
+                    <p className="lg:w-2/3 mx-auto leading-relaxed text-xl" id="navfont">
                         Over the last six months I've embarked on a new journey to expand my skills and join the coding community. Below are a few projects that I'm proud to have completed and learned from.
                     </p>
-                    <p className="lg:w-2/3 mx-auto leading-relaxed text-2xl" id="sectionblurb">
+                    <p className="lg:w-2/3 mx-auto leading-relaxed text-xl" id="navfont">
                         <strong>Click on the projects to see them in action!</strong>
                     </p>
                 </div>

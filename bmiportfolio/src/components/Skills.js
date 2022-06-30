@@ -10,7 +10,7 @@ export default function Skills() {
                 <h1 className="sm:text-4xl text-3xl font-medium title-font text-zinc-900 tracking-widest mb-4" id="sectionfont">
                     Skills &amp; Technologies
                 </h1>
-                <p className="leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-2xl" id="sectionblurb">
+                <p className="leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-xl" id="navfont">
                 I have picked up many skills along the way and I'm always looking to expand my knowledge even further. What I have come to love about coding is the amount of tips, tricks, best practices, and collaboration you can find online.
                 </p>
             </div>

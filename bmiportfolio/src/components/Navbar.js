@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <header className = "bg-slate-200 md:sticky top-0 z-10 drop-shadow-xl h-50 border-spacing-4 border-2 border-b-amber-600 m-5 border-x-slate-100 border-t-slate-100">
             <div className="container mx-auto flex flex-wrap flex-col md:flex-row items-center">
-                    <a href="#about" class="flex object-left">
+                    <a href="#about" className="flex object-left">
                         <img src="profilepicture.png" alt="Ballard Ingram" class="overflow-hidden h-48 w-96"/>
                     </a>
                     <a href="#about" className="md:mr-auto text-7xl text-stone-600 hover:text-amber-600 text-center" id="namefont">
