@@ -17,7 +17,7 @@ export default function Skills() {
             <div className="flex flex-wrap lg:w-2/5 sm:mx-auto sm:mb-2 mx-2">
                 {skills.map((skill) => (
                     <div key={skill} className="p-2 sm:w-1/2 w-full">
-                        <div className="bg-slate-200 rounded flex p-4 h-full items-center border-b-amber-600 border-x-slate-100 border-t-slate-100">
+                        <div className="bg-slate-200 rounded flex p-4 h-full items-center">
                             <img src={skill.image} alt="skill icon"></img>
                             <span className="font-medium text-zinc-900 text-center pl-5" id="navfont">
                                 {skill.name}
