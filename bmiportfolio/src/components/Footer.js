@@ -10,8 +10,12 @@ export default function Footer() {
                 <a href="https://www.linkedin.com/in/ballardingram" className="pr-2.5">
                     <img src="linkedin.png" alt="linkedin"></img>
                 </a>
-                <a href="https://github.com/ballardingram" className="pl-2.5">
+                <a href="https://github.com/ballardingram" className="p-2.5">
                     <img src="github.png" alt="github"></img>
+                </a>
+                <a href="https://stackoverflow.com/users/18042527/ballard-ingram?tab=profile" className="pl-2.5">
+                    <img src="stackoverflow.png" alt="stackoverflow
+                    "></img>
                 </a>
             </div>
         </footer>
