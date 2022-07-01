@@ -9,10 +9,10 @@ export default function Navbar() {
                     <a href="#about" className="flex object-left">
                         <img src="profilepicture.png" alt="Ballard Ingram" class="overflow-hidden h-48 w-96"/>
                     </a>
-                    <a href="#about" className="md:mr-auto text-7xl text-stone-600 hover:text-amber-600 text-center" id="namefont">
+                    <a href="#about" className="md:mr-auto text-7xl text-stone-600 hover:text-amber-600" id="namefont">
                        Ballard M. Ingram 
                     </a>
-                <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-1 md:border-gray-700 flex flex-wrap items-center text-base justify-center">
+                <nav className="md:ml-4 md:py-1 md:pl-4 md:border-1 md:border-gray-700 flex flex-wrap items-right">
                     <a href="#projects" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
                         Projects
                     </a>
