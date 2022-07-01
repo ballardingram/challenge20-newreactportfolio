@@ -6,12 +6,15 @@ export default function Footer() {
             <div className="text-center text-2xl tracking-widest" id="sectionfont">
             Connect with Me!    
             </div>
-            <div className="flex justify-center items-center pb-10">
+            <div className="flex justify-center items-center py-10">
                 <a href="https://www.linkedin.com/in/ballardingram" className="pr-2.5">
                     <img src="linkedin.png" alt="linkedin"></img>
                 </a>
-                <a href="https://github.com/ballardingram" className="pl-2.5">
+                <a href="https://github.com/ballardingram" className="p-2.5">
                     <img src="github.png" alt="github"></img>
+                </a>
+                <a href="https://stackoverflow.com/users/18042527/ballard-ingram" className="pl-2.5">
+                    <img src="stackoverflow.png" alt="stackflow"></img>
                 </a>
             </div>
         </footer>
