@@ -13,14 +13,9 @@ export default function Footer() {
                 <a href="https://github.com/ballardingram" className="p-2.5">
                     <img src="github.png" alt="github"></img>
                 </a>
-<<<<<<< HEAD:bmiportfolio/src/components/Footer.js
-                <a href="https://stackoverflow.com/users/18042527/ballard-ingram" className="pl-2.5">
-                    <img src="stackoverflow.png" alt="stackflow"></img>
-=======
                 <a href="https://stackoverflow.com/users/18042527/ballard-ingram?tab=profile" className="pl-2.5">
                     <img src="stackoverflow.png" alt="stackoverflow
                     "></img>
->>>>>>> c7a4e8616e3cf8db5b8baa56ffcbdc8bfc914fc5:src/components/Footer.js
                 </a>
             </div>
         </footer>
