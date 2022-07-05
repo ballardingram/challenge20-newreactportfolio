@@ -20,10 +20,13 @@ export default function Navbar() {
                         Skills
                     </a>
                     <a href="#jobs" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
-                        Professional Career
+                        Professional Experience
+                    </a>
+                    <a href="#about" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
+                        About Me
                     </a>
                     <a href="#contact" className="mr-5 text-stone-700 hover:text-amber-600" id="navfont">
-                        Hire Me
+                        Contact Me
                     </a>
                 </nav>
             </div>
