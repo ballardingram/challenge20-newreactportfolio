@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/challenge20-newreactportfolio/static/css/main.c39e8482.css",
-    "main.js": "/challenge20-newreactportfolio/static/js/main.a9d55ab8.js",
+    "main.js": "/challenge20-newreactportfolio/static/js/main.9638e77a.js",
     "index.html": "/challenge20-newreactportfolio/index.html",
     "main.c39e8482.css.map": "/challenge20-newreactportfolio/static/css/main.c39e8482.css.map",
-    "main.a9d55ab8.js.map": "/challenge20-newreactportfolio/static/js/main.a9d55ab8.js.map"
+    "main.9638e77a.js.map": "/challenge20-newreactportfolio/static/js/main.9638e77a.js.map"
   },
   "entrypoints": [
     "static/css/main.c39e8482.css",
-    "static/js/main.a9d55ab8.js"
+    "static/js/main.9638e77a.js"
   ]
 }
