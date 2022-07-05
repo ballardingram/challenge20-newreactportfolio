@@ -1,6 +1,7 @@
 // REQUIRED > FUNCTIONALITY
 import React from "react";
 
+
 export default function Contact() {
     return (
         <section id= "contact" className="relative">
@@ -17,7 +18,7 @@ export default function Contact() {
                     style={{ filter: "opacity(1.0)" }}
                     src="https://maps.google.com/maps?width=1000&amp;height=560&amp;hl=en&amp;q=Austin,%20TX+(Ballard%20Ingram)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"/>
                 </div>
-                <form action="mailto:ballardingram@outlook.com?Subject={message}" target="_blank" name="contact" className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
+                <form name="contact" className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
                     <h2 className="sm:text-4xl text-3xl mb-1 font-medium title-font text-zinc-900 tracking-widest" id="sectionfont">
                         Contact Me!
                     </h2>
@@ -40,7 +41,7 @@ export default function Contact() {
                         <label htmlFor="subject" className="leading-7 text-sm text-zinc-900" id="navfont">
                            Subject
                         </label>
-                        <input type="text" id="subject" name="subject" className="w-full bg-slate-200 rounded"/>
+                        <input type="email" id="email" name="email" className="w-full bg-slate-200 rounded"/>
                     </div>
                     <div className="relative mb-4">
                         <label htmlFor="message" className="leading-7 text-sm text-zinc-9000" id="navfont">
