@@ -14,7 +14,7 @@ export default function Resume() {
                        My new coding skills are backed by years of Leadership and Operational Management. I enjoy working with diverse, collaborative, and engaging teams of all sizes.
                     </p>
                     <a
-                    href="https://github.com/ballardingram/challenge20-newreactportfolio/raw/main/bmiportfolio/public/Resume.pdf"
+                    href="https://github.com/ballardingram/challenge20-newreactportfolio/raw/main/public/Resume.pdf"
                     download
                     className="lg:w-2/3 mx-auto leading-relaxed text-xl" id="navfont">
                        <strong>Click here to download my resume!</strong>
