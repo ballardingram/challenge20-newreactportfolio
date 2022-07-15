@@ -25,12 +25,12 @@ export const projects = [
         link: "https://ballardingram.github.io/Super-Hero-Wiki/",
     },
     {
-        title: "Note Taker",
-        subtitle: "Node and Express.JS Challenge",
+        title: "hello World",
+        subtitle: "MERN SPA Project",
         description:
-        "A note-taker site that allows you to add, update, and delete tasks!",
+        "A collaboration site that brings Coders together to work on projects and share expertise.",
         image: "project4.gif",
-        link: "https://challenge11-notetaker.herokuapp.com/",
+        link: "https://ut-hello-world.herokuapp.com/",
     },
     {
         title: "{COD}EZ.community",
